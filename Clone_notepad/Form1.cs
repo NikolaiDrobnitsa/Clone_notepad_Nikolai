@@ -16,5 +16,37 @@ namespace Clone_notepad
         {
             InitializeComponent();
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void сортпоВозрастаниюпоПервойЦифреДесятичныхЧиселЗапятаяToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void операцииСПроблеламиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void notesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void remMarkToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+    
     }
 }
